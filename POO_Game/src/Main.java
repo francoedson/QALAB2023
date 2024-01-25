@@ -1,4 +1,5 @@
 public class Main {
+    //Comentario de Franco Mariño en el archivo Main de POO_Game desde la rama feature-hu-292
     public static void main(String[] args) {
 
 
